@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cuadro1{
+    width: 100;
+    display: flex;
+}
+
+.cuadro1 .col1{
+    width: 33.33%;
+    height: 30vh;
+    background-color: darkred;
+}
+
+.cuadro1 .col2{
+    width: 66.67%;
+    height: 30vh;
+    background-color: deepskyblue;
+}
+
