@@ -25,3 +25,43 @@ main{
     background-color: deepskyblue;
 }
 
+.cuadro2 .row{
+   display: flex;
+
+}
+
+.cuadro2 .row .col3, .col4, .col5{
+    width: 33.33%;
+    height: 30vh;
+
+}
+
+.cuadro2 .row .col3{
+    background-color: gold;
+}
+
+.cuadro2 .row .col4{
+    background-color: hotpink;
+}
+
+.cuadro2 .row .col5{
+    background-color: indigo;
+}
+
+.row .col6 .col7{
+    width: 100;
+    display: flex;
+}
+
+.row .col6{
+    width: 50%;
+    height: 30vh;
+    background-color: rgb(151, 50, 129);
+}
+
+.row .col7{
+    width: 50%;
+    height: 30vh;
+    background-color: green;
+}
+
